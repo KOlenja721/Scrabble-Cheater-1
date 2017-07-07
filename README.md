@@ -15,7 +15,7 @@
 	
 	An example invocation and output:
 ```	
-	$ python scrabble.py ZAEFIEE
+    $ python scrabble.py ZAEFIEE
     17 feeze
     17 feaze
     16 faze
