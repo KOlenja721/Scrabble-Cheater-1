@@ -13,6 +13,29 @@
 
 	Write a Python script that takes a Scrabble rack as a command-line argument and prints all valid Scrabble words that can be constructed from that rack, along with their Scrabble scores, sorted by score. 
 	
+	An example invocation and output:
+```	
+	$ python scrabble.py ZAEFIEE
+    17 feeze
+    17 feaze
+    16 faze
+    15 fiz
+    15 fez
+    12 zee
+    12 zea
+    11 za
+    6 fie
+    6 fee
+    6 fae
+    5 if
+    5 fe
+    5 fa
+    5 ef
+    2 ee
+    2 ea
+    2 ai
+    2 ae
+```	
 ## Resources
 
 * http://courses.cms.caltech.edu/cs11/material/advjava/lab1/sowpods.zip contains all words in the 	official http://en.wikipedia.org/wiki/SOWPODS word list, one word per line.
