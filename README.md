@@ -2,18 +2,18 @@
 
 	Write a Scrabble cheater from scratch
 	
-##Goals
+## Goals
 
 * practice breaking down a problem and solving itin Python from scratch
 * practice command line argument parsing
 * practice reading from files
 * practice working with dictionaries and for loops
 	
-##Problem Statement
+## Problem Statement
 
 	Write a Python script that takes a Scrabble rack as a command-line argument and prints all valid Scrabble words that can be constructed from that rack, along with their Scrabble scores, sorted by score. An example invocation and output
 	
-##Resources
+## Resources
 
 * http://courses.cms.caltech.edu/cs11/material/advjava/lab1/sowpods.zip contains all words in the 	official http://en.wikipedia.org/wiki/SOWPODS word list, one word per line
 	
@@ -25,7 +25,7 @@
 				  "r": 1, "u": 1, "t": 1, "w": 4, "v": 4, "y": 4,
 				  "x": 8, "z": 10}
 		 
-##Breaking down the problem
+## Breaking down the problem
 
 ###	Step 1: construct a word list
 	
